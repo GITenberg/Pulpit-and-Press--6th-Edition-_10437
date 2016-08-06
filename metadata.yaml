@@ -1,0 +1,27 @@
+_repo: Pulpit-and-Press--6th-Edition-_10437
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eddy, Mary Baker
+    alias: Glover, Mary Baker
+    birthdate: 1821
+    deathdate: 1910
+    gutenberg_agent_id: '1203'
+    url: http://www.gutenberg.org/2009/agents/1203
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Baker_Eddy
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10437'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian Science'
+- !lcc 'BX'
+- GITenberg
+title: Pulpit and Press (6th Edition)
+url: http://www.gutenberg.org/ebooks/10437
